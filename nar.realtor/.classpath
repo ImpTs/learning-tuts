@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/rlomba/Desktop/BaseCamp/Neon Java Support/selenium-server-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlomba/Desktop/BaseCamp/Neon Java Support/selenium-server-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rlomba/Desktop/BaseCamp/Neon Java Support/selenium-server-standalone-2.53.1.jar" sourcepath="C:/Users/rlomba/Desktop/BaseCamp/Neon Java Support/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
