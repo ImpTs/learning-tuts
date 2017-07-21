@@ -13,4 +13,5 @@ callback = function(response){
         console.log(bl.toString());
     })
 };
-http.get(process.argv[2], callback)
+console.log(process.argv)
+//http.get(process.argv[2], callback)
